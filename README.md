@@ -30,7 +30,10 @@
     <img src="https://img.shields.io/badge/Instagram%20(study)-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 
-  ---
+
+<br><br><br>
+
+
 </div>
 
 <!-- STACKS -->
@@ -54,6 +57,9 @@
         <br/>
     </div>
 </div>
+
+<br>
+
 
 <!-- Top Langs -->
 <div align="center">
