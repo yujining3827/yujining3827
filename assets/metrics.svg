@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="212" viewBox="0 0 680 212" role="img" aria-label="FYI 인턴십 성과: 가입 CAC 45% 감소(1,746원에서 955원), 가입 전환율 8.9%에서 10.7%로 상승">
+  <title>metrics.json — 가입 CAC −45%, 가입 전환율 10.7%</title>
+  <style>
+    .mono { font-family: ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace; }
+    .sans { font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; }
+    .file { font-size: 12px; fill: #7c7c86; }
+    .ok { font-size: 12px; fill: #8ae234; }
+    .label { font-size: 13px; fill: #9a9aa3; }
+    .value { font-size: 36px; font-weight: 700; fill: #fafafa; }
+    .detail { font-size: 12.5px; fill: #7c7c86; }
+    .tick { font-size: 11px; fill: #7c7c86; }
+    .track { fill: #1c1c21; }
+    .before { fill: #4a4a52; }
+    .violet { fill: #a18cff; }
+    .pink { fill: #ff7ab6; }
+    .fill { transform-box: fill-box; transform-origin: left center; transform: scaleX(0); animation: grow 0.9s cubic-bezier(0.2, 0.7, 0.2, 1) 0.3s forwards; }
+    .fill.after { animation-delay: 0.55s; }
+    @keyframes grow { to { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) { .fill { transform: none; animation: none; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="679" height="211" rx="12" fill="#0d0d10" stroke="#26262c"/>
+  <text class="mono file" x="24" y="27">metrics.json</text>
+  <text class="mono ok" x="656" y="27" text-anchor="end">200 OK</text>
+  <line x1="1" y1="42" x2="679" y2="42" stroke="#26262c"/>
+  <line x1="340" y1="42" x2="340" y2="211" stroke="#26262c"/>
+
+  <!-- 가입 CAC: 1,746원 → 955원 -->
+  <text class="sans label" x="24" y="72">가입 CAC</text>
+  <text class="mono value violet" x="24" y="114">−45%</text>
+  <text class="sans detail" x="24" y="138">1,746원 → 955원</text>
+  <text class="mono tick" x="24" y="166">before</text>
+  <rect class="track" x="76" y="158" width="240" height="8" rx="4"/>
+  <rect class="fill before" x="76" y="158" width="240" height="8" rx="4"/>
+  <text class="mono tick" x="24" y="186">after</text>
+  <rect class="track" x="76" y="178" width="240" height="8" rx="4"/>
+  <rect class="fill after violet" x="76" y="178" width="131" height="8" rx="4"/>
+
+  <!-- 가입 전환율: 8.9% → 10.7% -->
+  <text class="sans label" x="364" y="72">가입 전환율</text>
+  <text class="mono value pink" x="364" y="114">10.7%</text>
+  <text class="sans detail" x="364" y="138">8.9%에서 상승</text>
+  <text class="mono tick" x="364" y="166">before</text>
+  <rect class="track" x="416" y="158" width="240" height="8" rx="4"/>
+  <rect class="fill before" x="416" y="158" width="200" height="8" rx="4"/>
+  <text class="mono tick" x="364" y="186">after</text>
+  <rect class="track" x="416" y="178" width="240" height="8" rx="4"/>
+  <rect class="fill after pink" x="416" y="178" width="240" height="8" rx="4"/>
+</svg>
