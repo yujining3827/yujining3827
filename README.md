@@ -2,9 +2,10 @@
 
 ### 기획부터 배포까지,<br/>끝까지 밀고 가는<br/>백엔드 개발자 정유진입니다.
 
-사용자 인터뷰로 문제를 다시 정의하고, API와 데이터 구조를 설계해 구현한 뒤, 지표로 결과를 확인합니다.
+사용자 인터뷰로 문제를 다시 정의하고,<br />
+API와 데이터 구조를 설계해 구현한 뒤,<br /> 지표로 결과를 확인합니다.
 
-서울여자대학교 소프트웨어융합학과<br/>2027.02 졸업 예정
+<sub>서울여자대학교 소프트웨어융합학과 · 2027.02 졸업 예정</sub>
 
 <a href="https://yujin-jeong.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6c4bff?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://velog.io/@yujindeang_/posts"><img src="https://img.shields.io/badge/Velog-0d0d10?style=flat-square&logo=velog&logoColor=20C997" alt="Velog" /></a>
